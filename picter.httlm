@@ -1,0 +1,19 @@
+<html>
+<head>
+   <title>Создания таблицы</title>
+</head>
+<body>
+<tableborder="1">
+   <tr>
+    <td>Ячейка 1</td>
+    <td>Ячейка 2</td>
+    <td>Ячейка 3</td>
+   </tr>
+<tr>
+    <td>Ячейка 4</td>
+    <td>Ячейка 5</td>
+    <td>Ячейка 6</td>
+   </tr>
+  </table>
+</body>
+</html>
